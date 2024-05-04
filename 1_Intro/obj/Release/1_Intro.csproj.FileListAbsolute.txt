@@ -1,0 +1,7 @@
+C:\Users\palash.kharwade\source\repos\1_Intro\obj\Release\1_Intro.csproj.AssemblyReference.cache
+C:\Users\palash.kharwade\source\repos\1_Intro\obj\Release\1_Intro.csproj.CoreCompileInputs.cache
+C:\Users\palash.kharwade\source\repos\1_Intro\bin\Release\1_Intro.exe.config
+C:\Users\palash.kharwade\source\repos\1_Intro\bin\Release\1_Intro.exe
+C:\Users\palash.kharwade\source\repos\1_Intro\bin\Release\1_Intro.pdb
+C:\Users\palash.kharwade\source\repos\1_Intro\obj\Release\1_Intro.exe
+C:\Users\palash.kharwade\source\repos\1_Intro\obj\Release\1_Intro.pdb
